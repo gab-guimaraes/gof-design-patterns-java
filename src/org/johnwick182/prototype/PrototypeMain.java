@@ -18,7 +18,7 @@ public class PrototypeMain {
 
         Diablo diablo2 = (Diablo) diablo.clone();
 
-        System.out.println(diablo.toString());
+        System.out.println(diablo);
         System.out.println(diablo2.toString());
 
 
