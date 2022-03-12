@@ -5,7 +5,7 @@ public class PrototypeMain {
     /*
     Prototype is a design pattern to clone complex objects without coupling.
     Imagining that you're creating a game with multiple enemies. What would you do to clone them?
-    Copy and paste the same attributes for all objects?
+    Copy and paste the same attributes for all objects?a
     The better way to do that is with prototype pattern.
      */
     public static void main(String[] args) {
